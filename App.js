@@ -65,6 +65,8 @@ export default function App() {
   );
 }
 
+
+
 const styles = StyleSheet.create({
   rootScreen: {
     flex: 1,
