@@ -23,10 +23,9 @@ npm start
 ```
 
 <p>
-  
-## Also
-if you don't want to do this work then you can watch this youtube video and get the idea of project and its features:
-<a href="https://youtube.com/shorts/iULzkm7drAQ?si=2v-1bKmwbgFEbr9S"><img alt="YouTube"  src="https://github.com/animesh30-dev/GuessGame/assets/146109979/18c1f2c0-9ea9-450d-8218-b4b1712d6a69" width="200" height="42"/></a>
+ 
+## Just Play The Game!!! 
+<a href="https://youtube.com/shorts/Vtbp56DsrgA?si=tBHrQ4Jy1KmVnO6v"><img alt="YouTube"  src="https://github.com/animesh30-dev/GuessGame/assets/146109979/18c1f2c0-9ea9-450d-8218-b4b1712d6a69" width="200" height="42"/></a>
 
 
 ## Here are some snapshots of the app
@@ -34,4 +33,4 @@ if you don't want to do this work then you can watch this youtube video and get 
 
 
 
-## Just Play The Game!!! & Thankyou for visiting 🔥🔥 
+## Thankyou for visiting 🔥🔥 
