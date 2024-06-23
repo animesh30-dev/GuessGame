@@ -1,14 +1,16 @@
 import { useState } from "react";
-import { TextInput, View, StyleSheet, Alert } from "react-native";
+import { TextInput, View, StyleSheet, Alert,useWindowDimensions,ScrollView, KeyboardAvoidingView,  } from "react-native";
 import PrimaryButton from "../components/ui/PrimaryButton";
 import Colors from "../constants/colors";
 import Title from "../components/ui/Title";
 import Cards from "../components/ui/Cards";
 import Instruction from "../components/ui/Instruction";
+import { styleProps } from "react-native-web/dist/cjs/modules/forwardedProps";
 
 function StartGameScreen({ onPickNumber }) {
   const [enteredNumber, setEnteredNumber] = useState("");
 
+  const { width, height } = useWindowDimensions();
   function NumberInputHandler(eneteredText) {
     setEnteredNumber(eneteredText);
   }
@@ -30,8 +32,12 @@ function StartGameScreen({ onPickNumber }) {
 
     onPickNumber(chosenNumber);
   }
+
+  const marginTopDistance = height< 500 ? 30:100
   return (
-    <View style={styles.rootContainer}>
+    <ScrollView style = {styles.screenKeyboard}>
+    <KeyboardAvoidingView style = {styles.screenKeyboard} behaviour='position'>
+    <View style={[styles.rootContainer, { marginTop: marginTopDistance }]}>
       <Title> Guess My Number </Title>
       <Cards style={styles.c}>
         <Instruction> Enter A Number </Instruction>
@@ -54,15 +60,20 @@ function StartGameScreen({ onPickNumber }) {
         </View>
       </Cards>
     </View>
+    </KeyboardAvoidingView>
+    </ScrollView>
   );
 }
 
 export default StartGameScreen;
-
+//const deviceHeight = Dimensions.get('window').height; 
 const styles = StyleSheet.create({
+  screenKeyboard:{
+    flex:1,
+  },
   rootContainer: {
     flex: 1,
-    marginTop: 200,
+    
     alignItems: "center",
   },
   numberInput: {

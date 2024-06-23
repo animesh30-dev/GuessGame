@@ -16,6 +16,8 @@ const styles = StyleSheet.create({
         borderColor:'white',
         textAlign:'center',
         padding:12,
+        maxWidth:'80%',
+        
         // fontFamily:'open-sans-bold',
     }
 });

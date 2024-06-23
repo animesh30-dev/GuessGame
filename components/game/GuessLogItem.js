@@ -26,7 +26,7 @@ const styles =StyleSheet.create({
     },
     itemText:{
         fontSize:18,
-        marginLeft:10,
+        // marginLeft:8,
         color:Colors.primary_600,
         fontWeight:'500'        
     }
