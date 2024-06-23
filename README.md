@@ -1,7 +1,7 @@
 # GuessGame
 
 <p align="center">
-<img src="https://github.com/animesh30-dev/Project_1-Goals_List/assets/146109979/1b915047-d46f-4c4e-b31e-ec3c7e2dad13" width="100">
+<img src="https://github.com/animesh30-dev/GuessGame/assets/146109979/afbca1c3-6ff7-4257-829b-abb1e5c7df14" width="100">
 </p>
 
  
@@ -34,6 +34,4 @@ if you don't want to do this work then you can watch this youtube video and get 
 
 
 
-## Just Play The Game!!!
-
-## Thank you for visiting 
+## Just Play The Game!!! & Thankyou for visiting 🔥🔥 
