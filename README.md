@@ -30,7 +30,7 @@ If you can't run the app because of some dependencies or the emulator taking too
 
 
 ## Here are some snapshots of the app
-<p align="center"> <img src="https://github.com/animesh30-dev/GuessGame/assets/146109979/295fe919-a67e-4481-874c-814c932e19d3" width="200"> <img src="https://github.com/animesh30-dev/GuessGame/assets/146109979/52c808d6-85c3-40b8-91b5-6c9c50217215" width="200">  <img src="" width="200"> </p>
+<p align="center"> <img src="https://github.com/animesh30-dev/GuessGame/assets/146109979/295fe919-a67e-4481-874c-814c932e19d3" width="200"> <img src="https://github.com/animesh30-dev/GuessGame/assets/146109979/52c808d6-85c3-40b8-91b5-6c9c50217215" width="200">  <img src="https://github.com/animesh30-dev/GuessGame/assets/146109979/41f7cac0-f6eb-4392-b4d6-29a637c20400" width="200"> </p>
 
 
 
