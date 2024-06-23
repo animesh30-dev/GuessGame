@@ -25,6 +25,7 @@ npm start
 <p>
  
 ## Just Play The Game!!! 
+If you can't run the app because of some dependencies or the emulator taking too much time, you can watch this YouTube video to get an idea of the project and its features.
 <a href="https://youtube.com/shorts/Vtbp56DsrgA?si=tBHrQ4Jy1KmVnO6v"><img alt="YouTube"  src="https://github.com/animesh30-dev/GuessGame/assets/146109979/18c1f2c0-9ea9-450d-8218-b4b1712d6a69" width="200" height="42"/></a>
 
 
